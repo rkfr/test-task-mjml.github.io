@@ -1,0 +1,116 @@
+<mj-section padding-bottom="30px"
+            background-color="#ffffff">
+
+  <mj-column width="15%">
+    <mj-image padding-top="25px"
+              alt="Question"
+              href="#"
+              src="https://i.imgur.com/VNgIOJo.png"
+              width="35px"
+              height="35px"
+              />
+  </mj-column>
+  
+  <mj-column width="35%">
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-button padding-top="25px"
+               mj-class="detiled-button"
+               href="#"
+               padding-right="30px"
+               >
+    	Visit the help center
+    </mj-button>
+  </mj-column>
+  
+  <mj-column width="15%">
+    <mj-image padding-top="25px"
+              alt="call"
+              href="#"
+              src="https://i.imgur.com/I9sijCx.png"
+              width="35px"
+              height="35px"
+              />
+  </mj-column>
+  
+  <mj-column width="35%">
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-button padding-top="25px"
+               mj-class="detiled-button"
+               href="#"
+               padding-right="30px"
+               >
+    	Need help? Contuct us
+    </mj-button>
+  </mj-column>
+
+</mj-section>
+
+<mj-section  background-color="#ffffff">
+	<mj-column>
+    <mj-text>
+    	What this email helpful?
+    </mj-text>
+    <mj-spacer height="25px"></mj-spacer>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#ffffff"
+            padding-bottom="25px"
+            >
+	<mj-group width="260px">
+  	<mj-column>
+      <mj-image src="https://i.imgur.com/noiIyxC.png"
+                width="60px"
+                height="60px"
+                href="#"
+              />
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://i.imgur.com/55QRfHf.png"
+                width="60px"
+                height="60px"
+                href="#"
+          />
+    </mj-column>
+    <mj-column>
+      <mj-image src="https://i.imgur.com/13CcmhV.png"
+                width="60px"
+                height="60px"
+                href="#"
+          />
+    </mj-column>
+  </mj-group>
+</mj-section>
+
+<!-- socials -->
+<mj-section>
+      <mj-column>
+        <mj-social font-size="15px" 
+                   icon-size="30px" 
+                   mode="horizontal" 
+                   padding-top="25px">
+          <mj-social-element name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element  name="twitter" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+<mj-section>
+	<mj-column>
+  	<mj-text font-size="13px"
+             padding-top="25px"
+             padding-bottom="55px"
+             padding-left="30px"
+             padding-right="30px"
+             line-height="15px"
+             >
+    	You recieved this email because you are registred on Prepply.com with the email adress
+      placeholder@placeholder.com. If you opt-out from receiving future emails, you willonly receive important service important service announcements forward, and will miss out the helpful emails described
+      above. You can manage your email preferences in your Account preferences.
+    </mj-text>
+  </mj-column>
+</mj-section>
